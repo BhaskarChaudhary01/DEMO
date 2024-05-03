@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class SecondLargest
+public class SecondLargest1
 {
 	public static void main(String[] args)
 	{
