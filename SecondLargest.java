@@ -15,8 +15,9 @@ public class SecondLargest
 		        fm=a[i];
 		       
 		    }
-		   System.out.println(sm);
+		  
 		}
+		 System.out.println(sm);
 	
 	}
 }
