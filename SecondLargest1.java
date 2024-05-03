@@ -10,14 +10,15 @@ public class SecondLargest1
 	int fm=0;
 	int sm=0;
 		for(int i=0;i<n;i++){
-		    if(a[i]>fm){
+		    if(a[i]>fm)
+{
 		         sm=fm;
 		        fm=a[i];
 		       
 		    }
 		  
 		}
-		 System.out.println(sm);
+		 System.out.println("Second largest "+sm);
 	
 	}
 }
